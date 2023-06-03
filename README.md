@@ -4,7 +4,9 @@
 I am passionate about learning new things and love sharing knowledge with others. I am interested in **Web Development** and started to explore this field using various tools and libraries. I am also enthusiast about **Machine Learning** and thrive to learn more everyday!
 
 **Skills:** JAVA / JS / HTML / CSS/ MACHINE LEARNING
-**Language and tools:** [![My Skills](https://skills.thijs.gg/icons?i=java,python,js,nodejs,html,css)](https://skills.thijs.gg)
+
+**Language and tools:** 
+[![My Skills](https://skills.thijs.gg/icons?i=java,python,js,nodejs,html,css)](https://skills.thijs.gg)
 
 **Highlights:**
 - 🌱 I am currently learning React JS. 
