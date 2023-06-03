@@ -1,4 +1,4 @@
-![](https://github.com/ummeFA/ummeFA/blob/main/BANNER.png)
+![](https://github.com/ummeFA/ummeFA/blob/main/banner-gh.png)
 
 ### Hi there 👋, my name is Umme Fatema
 I am passionate about learning new things and love sharing knowledge with others. I am interested in **Web Development** and started to explore this field using various tools and libraries. I am also enthusiast about **Machine Learning** and thrive to learn more everyday!
@@ -6,6 +6,7 @@ I am passionate about learning new things and love sharing knowledge with others
 **Skills:** JAVA / JS / HTML / CSS/ MACHINE LEARNING
 
 **Language and tools:** 
+
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,js,nodejs,html,css)](https://skills.thijs.gg)
 
 **Highlights:**
@@ -22,5 +23,5 @@ I am passionate about learning new things and love sharing knowledge with others
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummeFA&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ummeFA)  
+  
 
