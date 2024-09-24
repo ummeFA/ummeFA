@@ -5,7 +5,7 @@ I am passionate about learning new things and love sharing knowledge with others
 
 **Skills:** JAVA / JS / HTML / CSS/ MACHINE LEARNING
 
-**Certificates:** (https://coursera.org/share/6fc97ac82ed58ec6a12d5536c94fd96f)
+**Certificates:** https://coursera.org/share/6fc97ac82ed58ec6a12d5536c94fd96f
 
 **Language and tools:** 
 
