@@ -25,9 +25,20 @@ https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 
 
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummeFA&show_icons=true&cache_seconds=1800)
+- 🛰️ **Satellite Image Classification**
+  - MobileNetV2: 99.64% accuracy
+  - CNN: 94.49%
+  - Transfer learning comparison
+
+- 🧠 **Alzheimer MRI Classification**
+  - CNN + Transfer Learning
+  - Research publication
+
+- 📊 **Customer Churn Prediction**
+  - XGBoost
+  - ROC-AUC: 0.86
 
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
