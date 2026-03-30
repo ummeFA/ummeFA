@@ -25,9 +25,13 @@ https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ummeFA&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummeFA&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ummeFA&layout=compact)
+
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
 
   
 
