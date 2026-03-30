@@ -25,9 +25,9 @@ https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummeFA)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummeFA&show_icons=true&cache_seconds=1800)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ummeFA&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ummeFA&layout=compact&cache_seconds=1800)
 
   
 
