@@ -35,9 +35,6 @@ I enjoy building projects that involve data, solving real-world problems, and ex
 - Deep Learning architectures
 - Real-world AI applications
 
-**Highlights:**
-- 🌱 I am currently learning React JS. 
-- ⚡ Fun fact:  🧩 I love puzzels and I can solve Rubik's Cube. 🎥 I also love watching movies.
   
 **Certificates:** 
 1. **Developing Back-End Apps with Node.js and Express**
@@ -72,4 +69,4 @@ https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 ![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
 
   
-
+**⚡ Fun fact:  🧩 I love puzzels and I can solve Rubik's Cube. 🎥 I also love watching movies.
