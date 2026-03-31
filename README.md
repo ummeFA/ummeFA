@@ -69,4 +69,4 @@ https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 ![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
 
   
-**⚡ Fun fact:  🧩 I love puzzels and I can solve Rubik's Cube. 🎥 I also love watching movies.
+⚡ Fun fact: I love solving puzzles—especially the Rubik’s Cube—and enjoy watching movies in my free time.
