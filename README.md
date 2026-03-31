@@ -40,9 +40,10 @@ I enjoy building projects that involve data, solving real-world problems, and ex
 1. **Developing Back-End Apps with Node.js and Express**
 https://coursera.org/share/6fc97ac82ed58ec6a12d5536c94fd96f
 2. **Python for Data Science, AI & Development**
+   
 https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
 
-## 🚀 Featured Projects
+## 🧪 Featured Projects
 
 - 🛰️ **Satellite Image Classification**
   - MobileNetV2: 99.64% accuracy
