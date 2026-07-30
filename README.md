@@ -30,19 +30,11 @@ I enjoy building projects that involve data, solving real-world problems, and ex
 
 ---
 
-### 🚀 Currently Learning
-- Advanced Machine Learning
-- Deep Learning architectures
-- Real-world AI applications
-
+### 🚀 Currently Focus
+- Longitudinal and 3D change detection in imaging data
+- Deep learning for medical image analysis
+- Bringing ML methods to geospatial / LiDAR data
   
-**Certificates:** 
-1. Developing Back-End Apps with Node.js and Express  
-   https://coursera.org/share/6fc97ac82ed58ec6a12d5536c94fd96f
-
-2. Python for Data Science, AI & Development  
-   https://coursera.org/share/8df7c01231d20b1e763a7a8692b26eab
-   
 
 ## 🧪 Featured Projects
 
