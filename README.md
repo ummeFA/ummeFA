@@ -2,10 +2,7 @@
 
 ### Hi there 👋, I'm Umme Fatema
 
-I am passionate about learning new technologies and continuously improving my skills.  
-I have a strong interest in **Machine Learning and Data Analysis**, along with experience in **Web Development**.
-
-I enjoy building projects that involve data, solving real-world problems, and exploring new tools and frameworks.
+Hi 👋 I'm Umme Fatema — a Computer Science & Engineering graduate and engineer working with 3D LiDAR and geospatial data in Japan. My work centres on deep learning for imaging: medical image analysis and 3D change detection. IEEE-published (ICIEV/icIVPR 2020).
 
 ---
 
