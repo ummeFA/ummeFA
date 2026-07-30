@@ -38,8 +38,6 @@ I enjoy building projects that involve data, solving real-world problems, and ex
 
 ## 🧪 Featured Projects
 
-## 🚀 Featured Projects
-
 - 📊 **Kumamoto Earthquake Surface Change**  
   Bitemporal airborne LiDAR analysis of the Futagawa fault rupture. Compared pre- and post-earthquake scans on a shared 20 m grid to compute a DEM of difference, recovering coherent fault-trending displacement. Diagnosed and fixed a spurious offset by switching from interpolation to binning (σ ~3.0 m → ~1.48 m). `Python` · `laspy` · `rasterio` · `QGIS` · OpenTopography data.  
   🔗 [Repository](https://github.com/ummeFA/kumamoto-earthquake-surface-change)
