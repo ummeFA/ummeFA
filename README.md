@@ -63,4 +63,4 @@ Hi 👋 I'm Umme Fatema — a Computer Science & Engineering graduate and engine
 ![GitHub Streak](https://streak-stats.demolab.com?user=ummeFA)
 
   
-⚡ Fun fact: I love solving puzzles—especially the Rubik’s Cube—and enjoy watching movies in my free time.
+⚡ Fun fact: I love solving puzzles, especially the Rubik's Cube, enjoy traveling and exploring new places (currently discovering Japan region by region), and love watching movies in my free time.
