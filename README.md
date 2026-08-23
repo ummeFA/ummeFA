@@ -2,8 +2,7 @@
 
 ### Hi there 👋, I'm Umme Fatema
 
-Hi 👋 I'm Umme Fatema — a Computer Science & Engineering graduate and engineer working with 3D LiDAR and geospatial data in Japan. My work centres on deep learning for imaging: medical image analysis and 3D change detection. IEEE-published (ICIEV/icIVPR 2020).
-
+Hi, I'm Umme Fatema — a Computer Science & Engineering graduate working with 3D LiDAR and geospatial data in Japan, and independently building a research track in medical imaging/computer vision. Both center on the same underlying problem: extracting meaningful signal from noisy, paired data — disease patterns in brain MRI, or displacement patterns in disaster-affected terrain. Published in Alzheimer's disease classification (IEEE ICIEV/icIVPR 2020), and continuing to build independent projects in medical imaging deep learning and geospatial/LiDAR change detection.
 ---
 
 ###  Technical Skills
