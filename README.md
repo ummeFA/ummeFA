@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Umme Fatema
 
-Hi, I'm Umme Fatema, a Computer Science & Engineering graduate working with 3D LiDAR and geospatial data in Japan, and independently building a research track in medical imaging/computer vision. Both center on the same underlying problem: extracting meaningful signal from noisy, paired data — disease patterns in brain MRI, or displacement patterns in disaster-affected terrain. Published in Alzheimer's disease classification (IEEE ICIEV/icIVPR 2020), and continuing to build independent projects in medical imaging deep learning and geospatial/LiDAR change detection.
+Hi, I'm Umme Fatema, a Computer Science & Engineering graduate working with 3D LiDAR and geospatial data in Japan, and independently building a research track in medical imaging/computer vision. Both center on the same underlying problem: extracting meaningful signal from noisy, paired data, disease patterns in brain MRI, or displacement patterns in disaster affected terrain. Published in Alzheimer's disease classification (IEEE ICIEV/icIVPR 2020), and continuing to build independent projects in medical imaging deep learning and geospatial/LiDAR change detection.
 
 ###  Technical Skills
 
@@ -42,8 +42,8 @@ Hi, I'm Umme Fatema, a Computer Science & Engineering graduate working with 3D L
   🔗 [Repository](https://github.com/ummeFA/kumamoto-earthquake-surface-change)
 
 -  **Alzheimer's Disease MRI Classification**  
-  CNN-based classification across the Alzheimer's continuum (AD / MCI / CN) from ADNI structural MRI. Compared three transfer-learning architectures (VGG19, InceptionV3, ResNet50); VGG19 performed best at ~90% accuracy. `Python` · `TensorFlow` · `Keras`.  
-  🔗 [Published at ICIEV/icIVPR 2020 — IEEE Xplore](https://ieeexplore.ieee.org/document/9306649)
+  CNN-based classification across the Alzheimer's continuum (AD / MCI / CN) from ADNI structural MRI. Compared three transfer learning architectures (VGG19, InceptionV3, ResNet50); VGG19 performed best at ~90% accuracy. `Python` · `TensorFlow` · `Keras`.  
+  🔗 [Published at ICIEV/icIVPR 2020, IEEE Xplore](https://ieeexplore.ieee.org/document/9306649)
 
 -  **Satellite Image Classification**  
   Land-cover classification from satellite imagery. Compared a CNN baseline against MobileNetV2 transfer learning; MobileNetV2 reached 99.64% validation accuracy, a ~5-point gain over the baseline. `Python` · `TensorFlow` · `Keras`.  
